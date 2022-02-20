@@ -2,19 +2,19 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Краткая-информация-о-данных)
 [4. Этапы работы над проектом](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Этапы-работы-над-проектом)
 [5. Результат](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Результат)
 [6. Выводы](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Выводы)
 
-## Описание проекта
+### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
 :arrow_up:[к оглавлению]()
 
 
- ### Какой кейс решаем?
+ ### Какой кейс решаем
  Нужно написать программу, которая угадывает число за минимальное число попыток
 
  **Условия соревнования:**
