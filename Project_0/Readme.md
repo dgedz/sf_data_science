@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта] (https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Описание-проекта)
-[2. Какой кейс решаем?] ()
-[3. Краткая информация о данных] ()
-[4. Этапы работы на проектом] ()
-[5. Результат] ()
-[6. Выводы] ()
+[1. Описание проекта](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Результат)
+[6. Выводы](https://github.com/dgedz/sf_data_science/blob/main/Project_0/Readme.md#Выводы)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
@@ -28,7 +28,7 @@
  Учимся писать хороший код на Python
 
  
- ###Краткая информация о данных
+ ### Краткая информация о данных
  ....
 
 :arrow_up:[к оглавлению]()
