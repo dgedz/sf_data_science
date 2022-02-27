@@ -54,5 +54,5 @@ def random_num(number) -> int:
             predict = max_num - ((max_num-min_num)//2)
         
     return(count) # выход из цикла, если число угадано
-
-score_game(random_num)
+if __name__ == '__main__':
+    score_game(random_num)
